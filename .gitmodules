@@ -1,0 +1,3 @@
+[submodule "gitdemo123"]
+	path = gitdemo123
+	url = https://github.com/amanleeway/gitdemo123.git
